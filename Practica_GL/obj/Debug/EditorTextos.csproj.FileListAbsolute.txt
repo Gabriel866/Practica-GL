@@ -1,0 +1,29 @@
+C:\Users\Gsaitan\Desktop\SCHOOL PC\5to SEMESTRE\5.-LENGUAJE Y AUTOMA\EditorTextos\bin\Debug\EditorTextos.exe.config
+C:\Users\Gsaitan\Desktop\SCHOOL PC\5to SEMESTRE\5.-LENGUAJE Y AUTOMA\EditorTextos\bin\Debug\EditorTextos.exe
+C:\Users\Gsaitan\Desktop\SCHOOL PC\5to SEMESTRE\5.-LENGUAJE Y AUTOMA\EditorTextos\bin\Debug\EditorTextos.pdb
+C:\Users\Gsaitan\Desktop\SCHOOL PC\5to SEMESTRE\5.-LENGUAJE Y AUTOMA\EditorTextos\obj\Debug\EditorTextos.csproj.AssemblyReference.cache
+C:\Users\Gsaitan\Desktop\SCHOOL PC\5to SEMESTRE\5.-LENGUAJE Y AUTOMA\EditorTextos\obj\Debug\EditorTextos.Properties.Resources.resources
+C:\Users\Gsaitan\Desktop\SCHOOL PC\5to SEMESTRE\5.-LENGUAJE Y AUTOMA\EditorTextos\obj\Debug\EditorTextos.csproj.GenerateResource.cache
+C:\Users\Gsaitan\Desktop\SCHOOL PC\5to SEMESTRE\5.-LENGUAJE Y AUTOMA\EditorTextos\obj\Debug\EditorTextos.csproj.CoreCompileInputs.cache
+C:\Users\Gsaitan\Desktop\SCHOOL PC\5to SEMESTRE\5.-LENGUAJE Y AUTOMA\EditorTextos\obj\Debug\EditorTextos.exe
+C:\Users\Gsaitan\Desktop\SCHOOL PC\5to SEMESTRE\5.-LENGUAJE Y AUTOMA\EditorTextos\obj\Debug\EditorTextos.pdb
+C:\Users\garoi\OneDrive\Desktop\SCHOOL\5to_SEMESTRE\5.-LENGUAJE Y AUTOMA\Practica_GL\bin\Debug\EditorTextos.exe.config
+C:\Users\garoi\OneDrive\Desktop\SCHOOL\5to_SEMESTRE\5.-LENGUAJE Y AUTOMA\Practica_GL\bin\Debug\EditorTextos.exe
+C:\Users\garoi\OneDrive\Desktop\SCHOOL\5to_SEMESTRE\5.-LENGUAJE Y AUTOMA\Practica_GL\bin\Debug\EditorTextos.pdb
+C:\Users\garoi\OneDrive\Desktop\SCHOOL\5to_SEMESTRE\5.-LENGUAJE Y AUTOMA\Practica_GL\obj\Debug\EditorTextos.csproj.AssemblyReference.cache
+C:\Users\garoi\OneDrive\Desktop\SCHOOL\5to_SEMESTRE\5.-LENGUAJE Y AUTOMA\Practica_GL\obj\Debug\EditorTextos.Form1.resources
+C:\Users\garoi\OneDrive\Desktop\SCHOOL\5to_SEMESTRE\5.-LENGUAJE Y AUTOMA\Practica_GL\obj\Debug\EditorTextos.Properties.Resources.resources
+C:\Users\garoi\OneDrive\Desktop\SCHOOL\5to_SEMESTRE\5.-LENGUAJE Y AUTOMA\Practica_GL\obj\Debug\EditorTextos.csproj.GenerateResource.cache
+C:\Users\garoi\OneDrive\Desktop\SCHOOL\5to_SEMESTRE\5.-LENGUAJE Y AUTOMA\Practica_GL\obj\Debug\EditorTextos.csproj.CoreCompileInputs.cache
+C:\Users\garoi\OneDrive\Desktop\SCHOOL\5to_SEMESTRE\5.-LENGUAJE Y AUTOMA\Practica_GL\obj\Debug\EditorTextos.exe
+C:\Users\garoi\OneDrive\Desktop\SCHOOL\5to_SEMESTRE\5.-LENGUAJE Y AUTOMA\Practica_GL\obj\Debug\EditorTextos.pdb
+C:\Users\garoi\OneDrive\Desktop\SCHOOL\5to_SEMESTRE\5.-LENGUAS Y AUTONOMAS\Practica_GL\bin\Debug\EditorTextos.exe.config
+C:\Users\garoi\OneDrive\Desktop\SCHOOL\5to_SEMESTRE\5.-LENGUAS Y AUTONOMAS\Practica_GL\bin\Debug\EditorTextos.exe
+C:\Users\garoi\OneDrive\Desktop\SCHOOL\5to_SEMESTRE\5.-LENGUAS Y AUTONOMAS\Practica_GL\bin\Debug\EditorTextos.pdb
+C:\Users\garoi\OneDrive\Desktop\SCHOOL\5to_SEMESTRE\5.-LENGUAS Y AUTONOMAS\Practica_GL\obj\Debug\EditorTextos.csproj.AssemblyReference.cache
+C:\Users\garoi\OneDrive\Desktop\SCHOOL\5to_SEMESTRE\5.-LENGUAS Y AUTONOMAS\Practica_GL\obj\Debug\EditorTextos.Form1.resources
+C:\Users\garoi\OneDrive\Desktop\SCHOOL\5to_SEMESTRE\5.-LENGUAS Y AUTONOMAS\Practica_GL\obj\Debug\EditorTextos.Properties.Resources.resources
+C:\Users\garoi\OneDrive\Desktop\SCHOOL\5to_SEMESTRE\5.-LENGUAS Y AUTONOMAS\Practica_GL\obj\Debug\EditorTextos.csproj.GenerateResource.cache
+C:\Users\garoi\OneDrive\Desktop\SCHOOL\5to_SEMESTRE\5.-LENGUAS Y AUTONOMAS\Practica_GL\obj\Debug\EditorTextos.csproj.CoreCompileInputs.cache
+C:\Users\garoi\OneDrive\Desktop\SCHOOL\5to_SEMESTRE\5.-LENGUAS Y AUTONOMAS\Practica_GL\obj\Debug\EditorTextos.exe
+C:\Users\garoi\OneDrive\Desktop\SCHOOL\5to_SEMESTRE\5.-LENGUAS Y AUTONOMAS\Practica_GL\obj\Debug\EditorTextos.pdb
